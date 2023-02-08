@@ -1,4 +1,4 @@
 Hi!
-This is my tiny pet project for testing mobile app.
+This is my tiny pet project for testing a mobile app.
 
-In this project I used tools as WebdriverIO,Appium and Mocha + Chai syntax.
+In this project, I used tools such as WebdriverIO, Appium and Mocha + Chai syntax.
